@@ -2,12 +2,8 @@
 
 This project simulates cache coherence mechanisms in a distributed system, providing an environment for understanding and testing coherence protocols.
 
----
-Avik Halder (Roll No. 21EC39033) | 
-Supreet Sahu (Roll No. 21EC39052) | 
-Rounak Mandal (Roll No. 21EC39053) | 
-Sankalp N Bharadwaj (Roll No. 21EC10063) | 
-Hardik Chauhan (Roll No. 21EC39011) | 
+--- 
+Hardik Chauhan (Roll No. 21EC39011)
 
 ## Getting Started
 
