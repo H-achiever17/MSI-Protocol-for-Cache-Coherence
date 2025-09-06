@@ -1,4 +1,4 @@
-# Cache Coherence Simulator
+# MSI Protocol Implementation for Cache Cohorence
 
 This project simulates cache coherence mechanisms in a distributed system, providing an environment for understanding and testing coherence protocols.
 
